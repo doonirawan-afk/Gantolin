@@ -1,0 +1,6 @@
+{
+  "name": "Gantolin",
+  "description": "Gantolin - Aplikasi Pengingat Ganti Oli Online, pencatatan riwayat service, dan estimasi waktu ganti oli selanjutnya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
